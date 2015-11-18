@@ -1,0 +1,3 @@
+git commit : เอาไฟล์เข้าไปเก็บใน reppository
+
+git commit -m "" : เขียนข้อความว่าทำอะไรไปบ้าง 

@@ -1,0 +1,1 @@
+git checkout : กลับไปที่ version ก่อนหน้านี้
