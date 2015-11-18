@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 git add : เป็นนการทำให้ git รู้จัก 
 
 *สีเขียว : รู้จักแล้ว
 *สีแดง : ยังไม่รู้จัก
+=======
+git add is To make known gitFile that we will change it or convert files we create new : jaja
+>>>>>>> 0431a1df839501f1f203341bb14f35a805c054fb

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git checkout : กลับไปที่ version ก่อนหน้านี้
+=======
+git checkout is To delete a node. : JAJA
+>>>>>>> 0431a1df839501f1f203341bb14f35a805c054fb
