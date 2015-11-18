@@ -2,4 +2,8 @@
 
 git commit -m "" : เขียนข้อความว่าทำอะไรไปบ้าง 
 
-git commit : การเขียน commit message ว่าทำอะไรอยู่
+git commit : เขียน commit
+
+git commit : คอมเม้น ว่าได้เปลื่ยนแปลงอะไรบ้าง
+
+git commit :commit ว่าแก้ไขอะไร
