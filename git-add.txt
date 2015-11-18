@@ -3,3 +3,27 @@ git add is To make known gitFile that we will change it or convert files we crea
 
 *สีเขียว : รู้จักแล้ว
 *สีแดง : ยังไม่รู้จัก
+<<<<<<< HEAD
+=======
+git add คือ การทำให้ git รู้จักไฟล์ที่เราทำการเปลื่ยนแปลงหรือไฟล์ที่เราสร้างใหม่ในระบบ git : jaja
+
+git add คือ การทำให้ git รู้จักสิ่งที่มีการเปลี่ยนแปลงหรือแก้ไข
+>>>>>>> 4d2744d8e21572340848690dca617075e8a20ebc
+=======
+git add is To make known gitFile that we will change it or convert files we create new : jaja
+>>>>>>> 0431a1df839501f1f203341bb14f35a805c054fb
+=======
+﻿git add คือ การทำให้ git รู้จักไฟล์ที่เราทำการเปลื่ยนแปลงหรือไฟล์ที่เราสร้างใหม่ในระบบ git : jaja
+
+
+*สีเขียว : รู้จักแล้ว
+*สีแดง : ยังไม่รู้จัก
+<<<<<<< HEAD
+
+
+git add คือ การเพิ่มไฟล์ที่มีการเปลี่ยนแปลง
+=======
+>>>>>>> 6da8c8fd3fec82786fa2869b3bb3fe19149aab27
+>>>>>>> 78e0ee63aa02683d177430019c118cbf4e71319b
+=======
+>>>>>>> 687d1ccb44a201c224bf575ebd9f88e30b1019ad
