@@ -1,9 +1,6 @@
-﻿
-git checkout : กลับไปที่ version ก่อนหน้านี้
-
-
 ﻿git checkout : กลับไปที่ version ก่อนหน้านี้
 
+git checkout : กลับไปที่ version ก่อนหน้านี้
 
 git checkout is To delete a node. : JAJA
 
