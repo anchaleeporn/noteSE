@@ -1,5 +1,9 @@
-<<<<<<< HEAD
-git push = การนำไฟล์ขึ้นไป
-=======
-git push
->>>>>>> 133a80e4ed5a078c53f9e237553bac4096c2f845
+﻿git push = การนำไฟล์ขึ้นไป
+
+git push : นำไฟล์ขึ้นบน github ให้เพื่อนเห็นพร้อมกัน
+
+git push : ส่งไฟล์ขึ้นบน github
+
+git push : ส่งข้อมูลไฟล์ขึ้นไปบน github
+
+git push : ดึงไฟล์ขึ้นบน github
