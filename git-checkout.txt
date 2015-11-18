@@ -1,1 +1,3 @@
 git checkout is To delete a node. : JAJA
+
+git checkout คือ การถอยหลังกลับมา 1 step ของการทำงาน
