@@ -1,2 +1,4 @@
-git status 
+﻿git status 
 ใช้ check สถานะการทำงาน
+
+-ใช้เช็คสถานะใน git
