@@ -1,8 +1,5 @@
 ﻿git commit : เอาไฟล์เข้าไปเก็บใน reppository
 
 git commit -m "" : เขียนข้อความว่าทำอะไรไปบ้าง 
-<<<<<<< HEAD
-=======
 
 git commit : การเขียน commit message ว่าทำอะไรอยู่
->>>>>>> 6da8c8fd3fec82786fa2869b3bb3fe19149aab27
