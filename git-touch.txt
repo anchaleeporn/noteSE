@@ -1,5 +1,0 @@
-﻿
-﻿git touch : สร้างไฟล์ JAJA
-
-﻿git touch : การสร้างไฟล์เป็น .git
-
