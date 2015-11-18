@@ -1,1 +1,2 @@
-git add คือ การทำให้ git รู้จักไฟล์ที่เราทำการเปลื่ยนแปลงหรือไฟล์ที่เราสร้างใหม่ในระบบ git : jaja
+git add คือ To make known git
+File that we will change it or convert files we create new : jaja
