@@ -1,1 +1,1 @@
-git checkout is To delete a node.
+git checkout is To delete a node. : JAJA
