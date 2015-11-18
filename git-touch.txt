@@ -1,1 +1,1 @@
-git touch
+﻿git touch : สร้างไฟล์ JAJA
