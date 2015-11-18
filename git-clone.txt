@@ -1,7 +1,9 @@
-﻿git clone : นำไฟล์ลงมาจาก github
+﻿git clone : โหลดไฟล์ลงมาจาก github
 
-﻿git clone : นำไฟล์ลงมาจาก github
+﻿git clone : นำไฟล์ลงมาจาก github เพื่อให้ได้งานตรงกับเพื่อน
 
 git clone : เป็นการนำไฟล์จาก githup มาลงในเพื่อแก้ไขการใช้งาน หรือเพิ่มเติมการใช้งาน
 
 ﻿git clone : นำไฟล์ลงมาในเครื่องเรา
+
+﻿git clone : ดึงไฟล์จาก github
