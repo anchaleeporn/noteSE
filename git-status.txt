@@ -2,4 +2,8 @@
 
 ﻿git status  : ใช้ check สถานะการทำงาน
 
--ใช้เช็คสถานะใน git
+﻿git status คือ ใช้เช็คสถานะใน git
+
+﻿git status : แสดงสถานะ
+
+﻿git status = แสดงสถานะปัจจุบันของไฟล์ใน git
