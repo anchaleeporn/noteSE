@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 git pull = ดึงไฟล์ลงมา
 =======
 git pull
