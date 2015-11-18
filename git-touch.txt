@@ -1,5 +1,4 @@
-﻿<<<<<<< HEAD
+﻿
 ﻿git touch : สร้างไฟล์ JAJA
-=======
-﻿git touch
->>>>>>> b950f3830accc3e2091b6eb555e709ce56f4a7fd
+
+
